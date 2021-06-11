@@ -1,26 +1,26 @@
 # Title 
-  Henrys Project
+Henrys project
   
 ## Description
-readme generator
+It is a readme generator
 
 ## Installation
 npm i
 
 ## Usage
-use it for homework assignments
+Use it for future homework assignments
 
 ## Contribution
-by using it
+By showing me more skills in markdown
 
 ## Testing
-npm test
+npm test or jest
 
 ## Licensing
 mit
 
 ## Questions
-<github.com/henryparras24>
+<https://github.com/henryparras24>
 
 ## Questionss
 <henry.parras@yahoo.com>
