@@ -45,6 +45,18 @@ const questions = [
       message: 'Which license are you using?',
 
     },
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'What is your Github usernanme?',
+  
+      },
+      {
+        type: 'input',
+        name: 'questionss',
+        message: 'What is your email?',
+  
+      },
   ];
 
 inquirer
