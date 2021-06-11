@@ -1,13 +1,14 @@
-# Title Henrys project
+# Title 
+  Henrys Project
   
 ## Description
-- readme generator
+readme generator
 
 ## Installation
-- npm i
+npm i
 
 ## Usage
-- use it for homework assignments
+use it for homework assignments
 
 ## Contribution
 by using it
@@ -19,7 +20,7 @@ npm test
 mit
 
 ## Questions
-<henryparras24>
+<github.com/henryparras24>
 
 ## Questionss
 <henry.parras@yahoo.com>
