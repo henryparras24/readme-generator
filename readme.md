@@ -1,6 +1,6 @@
 
   # Title 
-  Henrys Project
+  henrys project
   
   
   # Table of contents
@@ -23,19 +23,22 @@ its a readme generator
 npm i
 
 ## Usage <a name="usage"></a>
-you can use it for homework
+you can use it for homework assignments
 
 ## Contribution <a name="contribution"></a>
-by adding me
+teach me more node skills
 
 ## Testing <a name="testing"></a>
 npm test
 
 ## Licensing <a name="licensing"></a>
-mit
+none
 
 ## Questions <a name="questions"></a>
 <https://github.com/henryparras24>
 
 ## Questionss
 <henry.parras@yahoo.com>
+
+
+https://drive.google.com/file/d/1sAqPgYiN1_yc5hmZcpayVmq3fxIU6LAs/view
