@@ -12,7 +12,7 @@
   6. [Licensing](#licensing)
   7. [Questions](#questions)
   
-  
+  <img width="1440" alt="readmestuff" src="https://user-images.githubusercontent.com/82185621/137205323-922facef-8cc0-4ef3-8515-a039d8cb363b.png">
   
 
   
